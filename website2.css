@@ -1,0 +1,52 @@
+.heading{
+    text-align: center;
+    color: seagreen;
+    padding: 20px;
+
+   }
+   .mycards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+   }
+   .card{
+    border: none;
+   }
+   .custom-text-box {
+background-color: rgb(60, 151, 151);
+border-radius: 25px;
+margin-bottom: 24px;
+padding: 40px;
+
+}
+.card-bg{
+background-color: white;
+border-radius: 20px;
+margin-bottom: 24px;
+padding: 40px;
+}
+.card-text{
+    color: seagreen;
+    font-size: 20px;
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 0px black;
+    padding: 20px;
+}
+.box1{
+    margin-top: 20px;
+}
+.card-header{
+    background-color: aqua;
+}
+.footer{
+    margin-top: 20px;
+}
+.box2:hover{
+    box-shadow: 0px 0px 10px 0px black;
+    background-color:white;
+color: white;
+}
+.box3{
+    margin-top: 20px;
+}
